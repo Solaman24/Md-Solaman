@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Md Solaman</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 - 🌱 I’m currently learning **Data Science, ML & AI**
 
 - 📫 How to reach me **solamanm803@gmail.com**
